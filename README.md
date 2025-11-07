@@ -10,10 +10,13 @@
 
 ### 👨‍💻 About Me
 
-🔹 **Profession:** Embedded Systems Engineer & Hardware Hacker 
-🔹 **Passion:** Crypto Trading, Quantitative Investing, and Web3 Technologies  
-🔹 **Focus Areas:** IoT, Firmware, Real-Time Systems, Market Algorithms  
-🔹 **Goal:** Building the bridge between **Hardware, Software & Finance**
+<p>
+🔹 <b>Profession:</b> Embedded Systems Engineer & Hardware Hacker <br>
+🔹 <b>Passion:</b> Crypto Trading, Quantitative Investing, and Web3 Technologies <br>
+🔹 <b>Focus Areas:</b> IoT, Firmware, Real-Time Systems, Market Algorithms <br>
+🔹 <b>Goal:</b> Building the bridge between <b>Hardware, Software & Finance</b>
+</p>
+
 
 ---
 
