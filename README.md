@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-🔹 **Profession:** Embedded Systems Engineer  
+🔹 **Profession:** Embedded Systems Engineer & Hardware Hacker 
 🔹 **Passion:** Crypto Trading, Quantitative Investing, and Web3 Technologies  
 🔹 **Focus Areas:** IoT, Firmware, Real-Time Systems, Market Algorithms  
 🔹 **Goal:** Building the bridge between **Hardware, Software & Finance**
@@ -27,22 +27,57 @@
 ### 🧠 Tech Stack
 
 #### 🔩 Embedded Systems
-`C` `C++` `Embedded C` `RTOS` `FreeRTOS` `STM32` `ESP32` `ARM Cortex-M`  
-`UART` `SPI` `I2C` `CAN` `ADC/DAC` `Timers` `Interrupts`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-00897B?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTOS-607D8B?style=for-the-badge&logo=rt-thread&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-4CAF50?style=for-the-badge&logo=freebsd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARM%20Cortex--M-FF6F00?style=for-the-badge&logo=arm&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/UART-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPI-283593?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/I2C-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CAN%20Bus-00838F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ADC%2FDAC-00796B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Timers-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interrupts-5D4037?style=for-the-badge"/>
+</p>
 
 #### ⚙️ Tools & Platforms
-`Keil uVision` `STM32CubeIDE` `PlatformIO` `Arduino` `VS Code` `JTAG/SWD`
+<p>
+  <img src="https://img.shields.io/badge/Keil%20uVision-3949AB?style=for-the-badge&logo=keil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-0A192F?style=for-the-badge&logo=stmicroelectronics&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F68212?style=for-the-badge&logo=platformio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JTAG%2FSWD-546E7A?style=for-the-badge"/>
+</p>
 
 #### 🌐 Web3 & Crypto
-`Solidity` `Python` `Node.js` `Web3.js` `DeFi Analytics` `Algo Trading`  
-`Binance API` `TradingView Pine Script` `MQL5` `Quant Models`
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeFi%20Analytics-6200EA?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algo%20Trading-2962FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Binance%20API-FCD535?style=for-the-badge&logo=binance&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TradingView%20Pine%20Script-1E88E5?style=for-the-badge&logo=tradingview&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQL5-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quant%20Models-212121?style=for-the-badge&logo=quantconnect&logoColor=white"/>
+</p>
 
 ---
 
-### 🌈 My Digital Universe
+### 🎨 Tech Heatmap (Activity Monitor)
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/2roX3uxz_68AAAAC/cat-space.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmanweb3&bg_color=0f0f0f&color=00f0ff&line=00d2ff&point=00ffcc&area=true&hide_border=true&radius=10&custom_title=⚡%20Contribution%20Activity%20Graph%20⚡"/>
 </p>
 
 ---
@@ -88,10 +123,10 @@
 
 ---
 
-### 🎨 Tech Heatmap (Activity Monitor)
+### 🌈 My Digital Universe
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmanweb3&bg_color=0f0f0f&color=00f0ff&line=00d2ff&point=00ffcc&area=true&hide_border=true&radius=10&custom_title=⚡%20Contribution%20Activity%20Graph%20⚡"/>
+  <img src="https://media.tenor.com/OCgOvb70YVAAAAAM/gato.gif" width="100%">
 </p>
 
 ---
@@ -106,9 +141,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.gifer.com/origin/f9/f9bb0a9c6c17b8f226988b51bb39de58_w200.gif" width="200">
-</p>
 
 <p align="center">
   ⚡ <b>“Code the Future. Trade the Chaos.”</b> ⚡  
@@ -116,6 +148,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=footer"/>
-</p>
