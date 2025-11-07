@@ -1,8 +1,13 @@
-<!-- 🌐 Ultra Professional GitHub README by ChatGPT for @fatmanweb3 -->
+<!-- 💫 Ultra Professional Animated GitHub README for @fatmanweb3 -->
 
-<h1 align="center">
-  ⚡ Fatman Web3 ⚡  
-</h1>
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Fatman+Web3+⚡;Embedded+Systems+Engineer;Crypto+Trader+%26+Investor;Quant+Strategist+%7C+Web3+Builder" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="600" height="4">
+</p>
 
 <h3 align="center">
   🚀 Embedded Systems Engineer | 💹 Crypto Trader & Investor | 🔬 Quant Enthusiast
@@ -34,12 +39,30 @@
 
 ---
 
-### 📊 GitHub Analytics Dashboard
-
+### 🌈 My Digital Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmanweb3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://media1.tenor.com/m/2roX3uxz_68AAAAC/cat-space.gif" width="100%">
+</p>
+
+---
+
+### 📊 GitHub Analytics Dashboard
+
+#### 🔥 This Year Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmanweb3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=🔥%20GitHub%20Stats%20(2025)%20🔥" height="180"/>
+</p>
+
+#### 📈 All-Time Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmanweb3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📊%20All-Time%20Performance" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanweb3&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+#### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fatmanweb3&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
 
 ---
@@ -57,11 +80,19 @@
 
 ---
 
-### 🛠️ Currently Building
+### ⚙️ Currently Building
 
 - 🧩 A hybrid **embedded + Web3 project**  
 - ⚙️ **Real-time market data dashboards**  
 - 💻 **Trading algorithms** using technical & quantitative factors  
+
+---
+
+### 🎨 Tech Heatmap (Activity Monitor)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmanweb3&bg_color=0f0f0f&color=00f0ff&line=00d2ff&point=00ffcc&area=true&hide_border=true&radius=10&custom_title=⚡%20Contribution%20Activity%20Graph%20⚡"/>
+</p>
 
 ---
 
@@ -76,7 +107,15 @@
 ---
 
 <p align="center">
+  <img src="https://i.gifer.com/origin/f9/f9bb0a9c6c17b8f226988b51bb39de58_w200.gif" width="200">
+</p>
+
+<p align="center">
   ⚡ <b>“Code the Future. Trade the Chaos.”</b> ⚡  
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=120&section=footer"/>
+</p>
