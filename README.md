@@ -1,13 +1,6 @@
 <!-- 💫 Ultra Professional Animated GitHub README for @fatmanweb3 -->
 
 <!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Fatman+Web3+⚡;Embedded+Systems+Engineer;Crypto+Trader+%26+Investor;Quant+Strategist+%7C+Web3+Builder" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="600" height="4">
-</p>
 
 <h3 align="center">
   🚀 Embedded Systems Engineer | 💹 Crypto Trader & Investor | 🔬 Quant Enthusiast
