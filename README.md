@@ -56,7 +56,7 @@
 
 ---
 
-### **Badges (Tech Areas I Work With)**
+### **(Tech Areas I Work With)**
 
 #### **Operating Systems / RTOS**
 
