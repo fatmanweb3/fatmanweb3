@@ -60,7 +60,7 @@
 
 #### **Operating Systems / RTOS**
 
-![OS Kernel](https://img.shields.io/badge/OS%20Kernel-Low%20Level-blue)
+![OS Kernel](https://img.shields.io/badge/OS%20Kernel-Linux-blue)
 ![Bare Metal](https://img.shields.io/badge/Bare--Metal-Programming-informational)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-green)
 ![Zephyr](https://img.shields.io/badge/Zephyr-RTOS-blue)
@@ -69,13 +69,13 @@
 #### **MCUs & Hardware**
 
 ![STM32](https://img.shields.io/badge/STM32-ARM%20MCU-blue)
-![RP2040](https://img.shields.io/badge/Raspberry%20Pi-RP2040-red)
+![RP2040](https://img.shields.io/badge/Raspberry%20Pi-RP2040%20RP2350-red)
 ![ESP32](https://img.shields.io/badge/ESP32-WiFi%20MCU-yellow)
 ![NXP](https://img.shields.io/badge/NXP-Microcontrollers-orange)
 
 #### **Languages**
 
-![C](https://img.shields.io/badge/C-Low%20Level-blue)
+![C](https://img.shields.io/badge/C-Embedded%20ProgramminG%20/%20Low%20Level-blue)
 ![C++](https://img.shields.io/badge/C++-Embedded%20Programming-green)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
 ![Rust](https://img.shields.io/badge/Rust-Embedded%20\(Occasional\)-brown)
