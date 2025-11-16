@@ -62,8 +62,8 @@
 
 ![OS Kernel](https://img.shields.io/badge/OS%20Kernel-Linux-blue)
 ![Bare Metal](https://img.shields.io/badge/Bare--Metal-Programming-informational)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-RTOS-green)
-![Zephyr](https://img.shields.io/badge/Zephyr-RTOS-blue)
+![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green)
+![Zephyr](https://img.shields.io/badge/RTOS-Zephyr-blue)
 ![RTOS Developer](https://img.shields.io/badge/RTOS-Developer-lightgrey)
 
 #### **MCUs & Hardware**
